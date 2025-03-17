@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rank-bert"
+  site-url: "https://numb3r33.github.io/rank-bert"
+  description: "Investigation Bert Model's Rank Properties"
+  repo-branch: main
+  repo-url: "https://github.com/numb3r33/rank-bert"
